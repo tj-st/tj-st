@@ -1,4 +1,4 @@
-## Hey, I'm TJ, A 'semi-fullstack' Software Engineer
+## I'm TJ, A 'semi-fullstack' Software Engineer
 
 ⚙・Currently Working On: Platform Development (Web3)
 
