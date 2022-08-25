@@ -1,5 +1,3 @@
-## I'm TJ, A 'semi-fullstack' Software Engineer
-
 ⚙・Currently Working On: Platform Development (Web3)
 
 🌱・Learning Goals: UX & UI Design / Front End Development / Prisma (for DB's)
