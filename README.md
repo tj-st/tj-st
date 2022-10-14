@@ -2,8 +2,8 @@
 
 🌱・Learning Goals: UX & UI Design / Front End Development / Prisma (for DB's)
 
-📫・Reach me on: [Twitter](https://twitter.com/ddotgg) / [LinkedIn](https://www.linkedin.com/in/tjsterrenberg/)
+📫・Reach me on [LinkedIn](https://www.linkedin.com/in/tjsterrenberg/)
 
-⚡・Backend Skills: Spring Framework, Node.js, Express, Relational & NoSQL DB's, CD/CI
+⚡・Backend Skills: Spring Framework, Node.js, Express, Relational DB's, CD/CI
 
-💻・Frontend Skills: React.js, Next.js, TailwindCSS
+💻・Frontend Skills: Some React.js, Next.js, and TailwindCSS
