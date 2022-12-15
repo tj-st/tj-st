@@ -1,4 +1,4 @@
-⚙・Currently Working On: Platform Development (Web3)
+⚙・Currently Working On: Platform Development
 
 🌱・Learning Goals: UX & UI Design / Front End Development / Prisma (for DB's)
 
