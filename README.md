@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Fullstack Software engineer based out of Atlanta.</h3>
+<h5 align="left">Fullstack Software engineer based out of Atlanta.</h3>
 
 ###
 
