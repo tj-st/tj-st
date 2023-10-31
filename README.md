@@ -1,8 +1,8 @@
-<h4 align="left">Fullstack Software engineer based out of Atlanta.</h3>
+<h3 align="left">Hey! I'm TJ, A Fullstack Software engineer based out of Atlanta, GA.</h3>
 
 ###
 
-<h4 align="left">Backend</h3>
+<h3 align="left">Backend</h3>
 
 ###
 
