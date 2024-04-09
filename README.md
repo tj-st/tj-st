@@ -1,12 +1,12 @@
-<h3 align="left">Hey! I'm TJ, A Fullstack Software engineer based out of Atlanta, GA.</h3>
+<h3 align="center">Hey! I'm TJ, A Fullstack Software engineer based out of Atlanta, GA.</h3>
 
 ###
 
-<h4 align="left">Backend</h4>
+<h4 align="center">Backend</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
@@ -16,11 +16,11 @@
 
 ###
 
-<h4 align="left">Frontend</h3>
+<h4 align="center">Frontend</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
@@ -30,11 +30,11 @@
 
 ###
 
-<h4 align="left">Tools</h3>
+<h4 align="center">Tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" width="52" alt="jetbrains logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
@@ -46,11 +46,11 @@
 
 ###
 
-<h4 align="left">Infra / Frameworks</h3>
+<h4 align="center">Infra / Frameworks</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" width="52" alt="jenkins logo"  />
@@ -60,10 +60,15 @@
 </div>
 
 ###
-<div align="left">
+
+<div align="center">
   <a href="https://www.linkedin.com/in/tj-st/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/tj-st/tj-st/output/github-contribution-grid-snake-dark.svg)
+###
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/tj-st/tj-st/output/github-contribution-grid-snake-dark.svg" />
+</div>
